@@ -94,4 +94,4 @@ python main.py
 
 - [croc](https://github.com/schollz/croc) - Christian Muehlhaeuser 및 기여자들
 - PyQt 팀
-- 피드백과 지원을 제공해준 모든 사용자들 
+- 피드백과 지원을 제공해준 모든 사용자들
