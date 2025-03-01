@@ -14,7 +14,7 @@
 <p align="center">
   <a href="#-소개">소개</a> •
   <a href="#-주요-기능">주요 기능</a> •
-  <a href="#-스크린샷">스크린샷</a> •
+  <a href="#-데모">데모</a> •
   <a href="#-설치">설치</a> •
   <a href="#-사용-방법">사용 방법</a> •
   <a href="#-기술-스택">기술 스택</a> •
@@ -54,12 +54,11 @@
   </table>
 </div>
 
-## 📸 스크린샷
+## 📸 데모
 
 <div align="center">
-  <img src="docs/images/screenshot_light.png" alt="Sirodrop 라이트 모드" width="49%" style="margin-right: 1%">
-  <img src="docs/images/screenshot_dark.png" alt="Sirodrop 다크 모드" width="49%">
-  <p><i>왼쪽: 라이트 모드 / 오른쪽: 다크 모드</i></p>
+  <img src="docs/images/sirodrop-demo.gif" alt="Sirodrop 데모" width="80%">
+  <p><i>Sirodrop 사용자 인터페이스 - 다크 모드</i></p>
 </div>
 
 ## 🚀 설치
