@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="docs/images/logo.png" alt="Sirodrop 로고" width="150">
-  <p>모던하고 직관적인 croc-cli의 GUI 인터페이스</p>
+  <p>모던하고 직관적인 croc의 GUI 인터페이스</p>
 </div>
 
 ## 소개
@@ -35,8 +35,8 @@ Sirodrop은 [croc](https://github.com/schollz/croc)을 위한 모던한 GUI 인�
 
 ```bash
 # 저장소 클론
-git clone https://github.com/sioaeko/croc-cli.git
-cd croc-cli
+git clone https://github.com/sioaeko/croc-gui.git
+cd croc-gui
 
 # 의존성 설치
 pip install -r requirements.txt
